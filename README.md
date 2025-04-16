@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm duyaivy</h1>
+<h1 align="center">Hello World👋, I'm duyaivy</h1>
 <h3 align="center">A passionate Frontend developer focused on clean code, modern UI, and seamless user experiences.</h3>
 
 ### - 🔭 I’m currently [A second-year student at Da Nang University of Science and Technology.](https://dut.udn.vn/)
