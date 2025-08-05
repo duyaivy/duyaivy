@@ -3,7 +3,7 @@
 
 ### - 🔭 I’m currently [A second-year student at Da Nang University of Science and Technology.](https://dut.udn.vn/)
 
-### - 🌱 I’m currently learning **ReactJs, TypeScript**
+### - 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript**
 
 ### - 📫 How to reach me **quocduy0322@gmail.com**
 
