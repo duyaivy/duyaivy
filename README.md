@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm duyaivy</h1>
 <h3 align="center">A passionate Frontend developer focused on clean code, modern UI, and seamless user experiences.</h3>
 
-### - 🔭 I’m currently [A second-year student at Da Nang University of Science and Technology.](https://dut.udn.vn/)
+### - 🔭 I’m currently [A third-year student at Da Nang University of Science and Technology.](https://dut.udn.vn/)
 
 ### - 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript**
 
