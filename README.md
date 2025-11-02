@@ -21,8 +21,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duyaivy" alt="duyaivy" /></a> </p>
 
-# ✍️ Random Dev Quote
-<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="duyaivy" /></p>
+
 
 [![](https://visitcount.itsvg.in/api?id=duyaivy&icon=0&color=0)](https://visitcount.itsvg.in)
 
