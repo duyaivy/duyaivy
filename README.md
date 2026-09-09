@@ -1,5 +1,5 @@
 <img
-src="./assets/image.png"
+src="./assets/banner.png"
 alt="Coding banner"
 width="100%"
 />
