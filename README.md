@@ -31,7 +31,6 @@ I'm **Quoc Duy**, a **Full-Stack Developer** and final-year Software Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,mongodb,docker,git" />
 </p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -51,6 +50,9 @@ I'm **Quoc Duy**, a **Full-Stack Developer** and final-year Software Engineering
 
 <div align="center">
 
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=duyaivy\&icon=0\&color=0)](https://visitcount.itsvg.in)
+  <img
+    src="https://komarev.com/ghpvc/?username=duyaivy&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 
 </div>
