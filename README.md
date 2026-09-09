@@ -18,7 +18,7 @@ I'm **Quoc Duy**, a **Full-Stack Developer** and final-year Software Engineering
 
 ## 🚀 About Me
 
-* 🎓 Final-year Software Engineering student at **[DUT](https://dut.udn.vn/)**
+* 🎓 Final-year Software Engineering student at **[Da Nang University of Science and Technology ](https://dut.udn.vn/)**
 * 💻 Interested in **Full-Stack Web & Mobile Development**
 * 🎯 Focusing on **System Design, Performance Optimization, SEO & Clean Code**
 * 🌐 Portfolio Website: **[duyaivy.id.vn](https://www.duyaivy.id.vn/)**
